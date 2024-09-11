@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuiChambelPt.Google-Login-Clone" />
+
+
 # Google Clone React
 This project is a clone of the Google login page built using React. It closely mimics the UI and functionality of the Google login page. This project is for **educational purposes** only and does not perform any real authentication or connect to Google’s services.
 
